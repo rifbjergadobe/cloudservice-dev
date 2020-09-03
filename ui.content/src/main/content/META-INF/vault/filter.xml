@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/conf/adobedemoemea8program" mode="merge"/>
+    <filter root="/content/adobedemoemea8program" mode="merge"/>
+    <filter root="/content/dam/adobedemoemea8program" mode="merge"/>
+    <filter root="/content/experience-fragments/adobedemoemea8program" mode="merge"/>
+</workspaceFilter>
