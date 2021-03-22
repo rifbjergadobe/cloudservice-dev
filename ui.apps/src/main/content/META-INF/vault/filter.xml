@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <workspaceFilter version="1.0">
-    <filter root="/apps/adobedemoemea8program"/>
+    <filter root="/apps/rifbjerg/clientlibs"/>
+    <filter root="/apps/rifbjerg/components"/>
+    <filter root="/apps/rifbjerg/i18n"/>
 </workspaceFilter>
