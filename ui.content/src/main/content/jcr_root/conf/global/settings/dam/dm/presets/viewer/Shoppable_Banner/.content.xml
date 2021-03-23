@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:dam="http://www.day.com/dam/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0" xmlns:rep="internal"
+    jcr:mixinTypes="[rep:AccessControllable]"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:conf="/conf/global"
+        cq:lastReplicated="{Date}2020-09-29T10:15:29.952Z"
+        cq:lastReplicatedBy="dynamic-media-s7sync"
+        cq:lastReplicationAction="Activate"
+        dam:lastS7Synced="{Date}2020-12-02T10:10:40.472Z"
+        dam:lastS7SyncStatus="failed: com.day.cq.dam.scene7.api.model.IpsApiException: IPS API fault code=30000: Invalid asset handle 'a|547541743'. Asset does not exist or user does not have the necessary access permissions."
+        dam:s7damType="ViewerPreset"
+        dam:scene7LastPublished="{Date}2020-09-29T10:15:29.936Z"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:uuid="434273c9-8ed2-4615-8a6c-84a4ff69560b"
+        category="INTERACTIVE_IMAGE"
+        isactive="{Boolean}true"
+        iscustom="{Boolean}false"
+        platform="HTML5">
+        <metadata
+            dam:scene7CloudConfigPath="/conf/global/settings/cloudconfigs/dmscene7"
+            dam:scene7File="Rifbjerg/Shoppable_Banner"
+            dam:scene7FileStatus="NeedsReupload"
+            dam:scene7ID="a|547541743"
+            dam:scene7RootID="Rifbjerg"
+            jcr:primaryType="nt:unstructured"/>
+        <userdata
+            jcr:primaryType="nt:unstructured"
+            style="content/dam/_CSS/_OOTB/html5_interactiveimage.css"/>
+    </jcr:content>
+</jcr:root>

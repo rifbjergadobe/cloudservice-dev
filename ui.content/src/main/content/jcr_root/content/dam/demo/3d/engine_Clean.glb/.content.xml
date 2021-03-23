@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dam="http://www.day.com/dam/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:mixinTypes="[mix:referenceable]"
+    jcr:primaryType="dam:Asset"
+    jcr:uuid="b6cc6bf9-5e69-4014-a1d7-784ae4c3d932">
+    <jcr:content
+        dam:assetState="processed"
+        dam:imageServerAsset="{Boolean}true"
+        dam:processingId="/var/workflow/instances/server11/2020-12-01/dynamic-media-reupload_5"
+        dam:processingRenditions="[]"
+        dam:processingRequestedDate="{Date}2020-12-01T13:20:56.901Z"
+        dam:s7damType="ThreeD"
+        dam:scene7BatchId="45V2HnYBAAD-j-HrTWE_ckOv6U3umUqq"
+        dam:scene7RequestID="/var/workflow/instances/server11/2020-12-01/dynamic-media-reupload_5"
+        jcr:lastModified="{Date}2020-12-01T13:22:22.120Z"
+        jcr:lastModifiedBy="admin"
+        jcr:primaryType="dam:AssetContent"
+        ips-job-handle="[j|230999||CQ5_batch_upload_default_1601284694303|338819038]"
+        status="Finished">
+        <metadata
+            dam:extracted="{Date}2020-09-28T11:18:30.575+02:00"
+            dam:interactive3DAsset="True"
+            dam:scene7APIServer="https://s7sps3apissl.scene7.com"
+            dam:scene7CloudConfigPath="/conf/global/settings/cloudconfigs/dmscene7"
+            dam:scene7CompanyID="c|24170"
+            dam:scene7Domain="http://s7g10.scene7.com/"
+            dam:scene7File="Rifbjerg/engine_Clean"
+            dam:scene7FileStatus="PublishComplete"
+            dam:scene7Folder="Rifbjerg/demo/3d/"
+            dam:scene7ID="a|510566572"
+            dam:scene7LastModified="{Long}1606828877429"
+            dam:scene7Name="engine_Clean"
+            dam:scene7PublishTimeStamp="{Long}1606828935023"
+            dam:scene7Type="ThreeD"
+            dam:scene7UploadTimeStamp="{Date}2020-12-01T13:22:15.023Z"
+            dam:sha1="907845ab350d51bd0549f48e4102cb0669880eac"
+            dam:size="{Long}39482496"
+            dc:format="model/gltf-binary"
+            jcr:mixinTypes="[cq:Taggable]"
+            jcr:primaryType="nt:unstructured"/>
+        <related jcr:primaryType="nt:unstructured"/>
+    </jcr:content>
+</jcr:root>

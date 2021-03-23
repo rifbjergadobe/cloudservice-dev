@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        jcr:description="Demo"
+        jcr:name="Rifbjerg"
+        jcr:primaryType="nt:unstructured"
+        jcr:title="Rifbjerg"
+        sling:resourceType="/libs/dam/components/youtube/channelconfig"
+        credentialIsStored="{Boolean}true">
+        <metadata
+            cq:tags="[properties:orientation/landscape]"
+            jcr:mixinTypes="[cq:Taggable]"
+            jcr:primaryType="nt:unstructured"/>
+        <datastore
+            jcr:primaryType="nt:unstructured"
+            admin="{Binary}"/>
+    </jcr:content>
+</jcr:root>

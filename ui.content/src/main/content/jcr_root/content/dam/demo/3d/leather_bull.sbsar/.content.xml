@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dam="http://www.day.com/dam/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:mixinTypes="[mix:referenceable]"
+    jcr:primaryType="dam:Asset"
+    jcr:uuid="a81fe119-2fb2-464c-9b46-aff982d6b7ca">
+    <jcr:content
+        dam:assetState="processed"
+        dam:processingId="543e2988-8221-4746-9da1-7ed9aca04e31"
+        dam:processingRenditions="[cqdam.text.txt,cq5dam.web.1280.1280.jpeg,cq5dam.thumbnail.319.319.png,cqdam.machine.metadata.json,cqdam.metadata.xml,cq5dam.thumbnail.48.48.png,cq5dam.thumbnail.140.100.png]"
+        dam:processingRequestedDate="{Date}2020-12-01T13:28:51.789Z"
+        dam:runPostProcess="{Boolean}true"
+        dam:scene7RequestID="543e2988-8221-4746-9da1-7ed9aca04e31"
+        jcr:lastModified="{Date}2020-12-01T13:29:06.723Z"
+        jcr:lastModifiedBy="admin"
+        jcr:primaryType="dam:AssetContent">
+        <dam:failedRenditions jcr:primaryType="nt:unstructured">
+            <cq5dam.thumbnail.48.48.png
+                jcr:primaryType="nt:unstructured"
+                message="Format png is not supported for bin files"
+                reason="RenditionFormatUnsupported"/>
+            <cq5dam.thumbnail.319.319.png
+                jcr:primaryType="nt:unstructured"
+                message="Format png is not supported for bin files"
+                reason="RenditionFormatUnsupported"/>
+            <cq5dam.thumbnail.140.100.png
+                jcr:primaryType="nt:unstructured"
+                message="Format png is not supported for bin files"
+                reason="RenditionFormatUnsupported"/>
+            <cqdam.machine.metadata.json
+                jcr:primaryType="nt:unstructured"
+                message="Auto tagging (fmt=machine-metadata-json) not supported for bin files"
+                reason="RenditionFormatUnsupported"/>
+            <cq5dam.web.1280.1280.jpeg
+                jcr:primaryType="nt:unstructured"
+                message="Format jpg is not supported for bin files"
+                reason="RenditionFormatUnsupported"/>
+        </dam:failedRenditions>
+        <metadata
+            dam:extracted="{Date}2020-12-01T13:29:06.596Z"
+            dam:scene7FileStatus="NotSupported"
+            dam:sha1="1cc40ae387d0308d7521cfcfd84c8113ae26a1fa"
+            dam:size="{Long}18445288"
+            dc:format="application/octet-stream"
+            jcr:mixinTypes="[cq:Taggable]"
+            jcr:primaryType="nt:unstructured"/>
+        <related jcr:primaryType="nt:unstructured"/>
+    </jcr:content>
+</jcr:root>

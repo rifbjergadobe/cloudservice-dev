@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dam="http://www.day.com/dam/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:mixinTypes="[mix:referenceable]"
+    jcr:primaryType="dam:Asset"
+    jcr:uuid="1829f7b3-262e-442b-af6c-c940cf8bc905">
+    <jcr:content
+        dam:assetState="processed"
+        dam:imageServerAsset="{Boolean}true"
+        dam:processingId="497609c3-460f-4b63-87bc-0eebb0668d6a"
+        dam:processingRenditions="[cqdam.machine.metadata.json,cq5dam.thumbnail.319.319.png,cq5dam.thumbnail.140.100.png,cqdam.text.txt,cq5dam.thumbnail.48.48.png,cqdam.metadata.xml,cq5dam.web.1280.1280.jpeg]"
+        dam:processingRequestedDate="{Date}2020-12-06T11:45:15.871Z"
+        dam:runPostProcess="{Boolean}true"
+        dam:s7damType="ThreeD"
+        dam:scene7BatchId="vrveN3YBAADM2-dE2EWG4w0GIJz94mCk"
+        dam:scene7RequestID="497609c3-460f-4b63-87bc-0eebb0668d6a"
+        jcr:lastModified="{Date}2020-12-06T11:46:35.987Z"
+        jcr:lastModifiedBy="rifbjerg@adobe.com"
+        jcr:primaryType="dam:AssetContent"
+        status="Finished">
+        <dam:failedRenditions jcr:primaryType="nt:unstructured">
+            <cqdam.machine.metadata.json
+                jcr:primaryType="nt:unstructured"
+                message="Auto tagging (fmt=machine-metadata-json) not supported for glb files"
+                reason="RenditionFormatUnsupported"/>
+            <cq5dam.thumbnail.319.319.png
+                jcr:primaryType="nt:unstructured"
+                message="Format png is not supported for glb files"
+                reason="RenditionFormatUnsupported"/>
+            <cq5dam.thumbnail.48.48.png
+                jcr:primaryType="nt:unstructured"
+                message="Format png is not supported for glb files"
+                reason="RenditionFormatUnsupported"/>
+            <cq5dam.thumbnail.140.100.png
+                jcr:primaryType="nt:unstructured"
+                message="Format png is not supported for glb files"
+                reason="RenditionFormatUnsupported"/>
+            <cq5dam.web.1280.1280.jpeg
+                jcr:primaryType="nt:unstructured"
+                message="Format jpg is not supported for glb files"
+                reason="RenditionFormatUnsupported"/>
+        </dam:failedRenditions>
+        <metadata
+            dam:extracted="{Date}2020-12-06T11:45:32.710Z"
+            dam:interactive3DAsset="True"
+            dam:scene7APIServer="https://s7sps3apissl.scene7.com"
+            dam:scene7CloudConfigPath="/conf/global/settings/cloudconfigs/dmscene7"
+            dam:scene7CompanyID="c|24170"
+            dam:scene7Domain="http://s7g10.scene7.com/"
+            dam:scene7File="Rifbjerg/Untitled"
+            dam:scene7FileStatus="PublishComplete"
+            dam:scene7Folder="Rifbjerg/demo/3d/"
+            dam:scene7ID="a|511893962"
+            dam:scene7LastModified="{Long}1607255130531"
+            dam:scene7Name="Untitled"
+            dam:scene7PublishTimeStamp="{Long}1607255188631"
+            dam:scene7Type="ThreeD"
+            dam:scene7UploadTimeStamp="{Date}2020-12-06T11:46:28.631Z"
+            dam:sha1="d24e33a857ef9be7e85e2ab98f13a7cca4d3aeae"
+            dam:size="{Long}4586024"
+            dc:format="model/gltf-binary"
+            jcr:mixinTypes="[cq:Taggable]"
+            jcr:primaryType="nt:unstructured"
+            photoshop:ColorMode="{Long}3"
+            photoshop:ICCProfile="sRGB IEC61966-2.1"
+            xmp:CreateDate="{Date}2020-12-06T12:44:43.000+01:00"
+            xmp:MetadataDate="{Date}2020-12-06T12:44:43.000+01:00"
+            xmp:ModifyDate="{Date}2020-12-06T12:44:43.000+01:00"
+            xmpMM:DocumentID="adobe:docid:photoshop:d9b02949-cbb6-dd42-bdc8-b31d6dfcc5ad"
+            xmpMM:InstanceID="xmp.iid:7eab91f3-ded7-491d-8c78-45b3067e19c4"
+            xmpMM:OriginalDocumentID="xmp.did:56c4f8f9-731b-4563-b108-e22aa60b2a71">
+            <xmpMM:History
+                jcr:primaryType="nt:unstructured"
+                xmpArraySize="{Long}2"
+                xmpArrayType="rdf:Seq"
+                xmpNodeType="xmpArray">
+                <_x0031_
+                    jcr:primaryType="nt:unstructured"
+                    stEvt:action="created"
+                    stEvt:instanceID="xmp.iid:56c4f8f9-731b-4563-b108-e22aa60b2a71"
+                    stEvt:when="{Date}2020-12-06T12:44:43.000+01:00"
+                    xmpNodeType="xmpStruct"/>
+                <_x0032_
+                    jcr:primaryType="nt:unstructured"
+                    stEvt:action="saved"
+                    stEvt:changed="/"
+                    stEvt:instanceID="xmp.iid:7eab91f3-ded7-491d-8c78-45b3067e19c4"
+                    stEvt:when="{Date}2020-12-06T12:44:43.000+01:00"
+                    xmpNodeType="xmpStruct"/>
+            </xmpMM:History>
+        </metadata>
+        <related jcr:primaryType="nt:unstructured"/>
+        <usages
+            dam:score="{Long}1"
+            jcr:primaryType="nt:unstructured"
+            usedBy="[aem]">
+            <aem
+                jcr:primaryType="nt:unstructured"
+                count="{Long}1"
+                lastUsed="{Date}2020-12-06T15:36:56.070Z"/>
+        </usages>
+    </jcr:content>
+</jcr:root>

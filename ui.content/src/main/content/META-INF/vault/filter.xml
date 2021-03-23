@@ -4,4 +4,10 @@
     <filter root="/content/rifbjerg" mode="merge"/>
     <filter root="/content/dam/rifbjerg" mode="merge"/>
     <filter root="/content/experience-fragments/rifbjerg" mode="merge"/>
+    <filter root="/content/dam/demo"/>
+    <filter root="/conf/global/settings/dam/dm/presets/viewer"/>
+    <filter root="/conf/global/settings/dam/dm/presets/video"/>
+    <filter root="/conf/global/settings/cloudconfigs"/>
+    <filter root="/conf/global/settings/dam/adminui-extension"/>
+    <filter root="/conf/global/settings/dam/search/facets/assets"/>
 </workspaceFilter>

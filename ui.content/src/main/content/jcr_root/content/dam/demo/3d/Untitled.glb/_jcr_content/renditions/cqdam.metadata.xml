@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 6.2.4">
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+    <rdf:Description rdf:about=""
+        xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
+        xmlns:xmp="http://ns.adobe.com/xap/1.0/"
+        xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
+        xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#"
+        xmlns:dam="http://www.day.com/dam/1.0"
+        xmlns:dc="http://purl.org/dc/elements/1.1/"
+      photoshop:ColorMode="3"
+      photoshop:ICCProfile="sRGB IEC61966-2.1"
+      xmp:CreateDate="2020-12-06T12:44:43+01:00"
+      xmp:MetadataDate="2020-12-06T12:44:43+01:00"
+      xmp:ModifyDate="2020-12-06T12:44:43+01:00"
+      xmpMM:DocumentID="adobe:docid:photoshop:d9b02949-cbb6-dd42-bdc8-b31d6dfcc5ad"
+      xmpMM:InstanceID="xmp.iid:7eab91f3-ded7-491d-8c78-45b3067e19c4"
+      xmpMM:OriginalDocumentID="xmp.did:56c4f8f9-731b-4563-b108-e22aa60b2a71"
+      dam:size="4586024"
+      dam:sha1="d24e33a857ef9be7e85e2ab98f13a7cca4d3aeae"
+      dam:interactive3DAsset="True"
+      dc:format="model/gltf-binary">
+      <xmpMM:History>
+        <rdf:Seq>
+          <rdf:li
+            stEvt:action="created"
+            stEvt:instanceID="xmp.iid:56c4f8f9-731b-4563-b108-e22aa60b2a71"
+            stEvt:when="2020-12-06T12:44:43+01:00"/>
+          <rdf:li
+            stEvt:action="saved"
+            stEvt:changed="/"
+            stEvt:instanceID="xmp.iid:7eab91f3-ded7-491d-8c78-45b3067e19c4"
+            stEvt:when="2020-12-06T12:44:43+01:00"/>
+        </rdf:Seq>
+      </xmpMM:History>
+    </rdf:Description>
+  </rdf:RDF>
+</x:xmpmeta>

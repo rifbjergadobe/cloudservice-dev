@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0" xmlns:rep="internal"
+    jcr:lastModified="{Date}2020-09-28T13:24:40.027+02:00"
+    jcr:lastModifiedBy="admin"
+    jcr:mixinTypes="[rep:AccessControllable]"
+    jcr:primaryType="sling:Folder"
+    macConfig="/etc/cloudservices/marketingcloud/adobeemea8"
+    mpConfig="/etc/cloudservices/mediaportal/adobeemea8"
+    pubFolder="{Boolean}false">
+    <jcr:content
+        cq:lastReplicated="{Date}2020-09-17T20:38:33.695+02:00"
+        cq:lastReplicatedBy="workflow-process-service"
+        cq:lastReplicationAction="Activate"
+        jcr:mixinTypes="[cq:ReplicationStatus]"
+        jcr:primaryType="nt:unstructured"
+        jcr:title="Smart Tagging"
+        dmpublish-mode=""
+        imageProfile="/conf/global/settings/dam/adminui-extension/imageprofile/Smart-Crop"
+        sourcing="false">
+        <folderThumbnail/>
+    </jcr:content>
+</jcr:root>

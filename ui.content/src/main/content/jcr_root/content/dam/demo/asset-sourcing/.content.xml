@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0" xmlns:rep="internal"
+    jcr:lastModified="{Date}2020-09-28T13:30:35.193+02:00"
+    jcr:lastModifiedBy="admin"
+    jcr:mixinTypes="[rep:AccessControllable]"
+    jcr:primaryType="sling:Folder"
+    mpConfig="/conf/global/settings/cloudconfigs/mediaportal/AdobeEmea8 Brand Portal"
+    pubFolder="{Boolean}false">
+    <jcr:content
+        cq:lastReplicated="{Date}2020-09-28T13:30:46.169+02:00"
+        cq:lastReplicatedBy="replication-service"
+        cq:lastReplicationAction="Activate"
+        jcr:primaryType="nt:unstructured"
+        jcr:title="Asset Sourcing"
+        autotag="{Boolean}true"
+        dmpublish-mode=""
+        newFolderName="new"
+        sharedFolderName="shared"
+        sourcing="true"
+        sourcingdesc=""/>
+</jcr:root>

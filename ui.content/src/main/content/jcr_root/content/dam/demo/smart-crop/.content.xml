@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:dam="http://www.day.com/dam/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0" xmlns:rep="internal"
+    jcr:lastModified="{Date}2020-12-01T13:26:16.136Z"
+    jcr:lastModifiedBy="rifbjerg@adobe.com"
+    jcr:mixinTypes="[rep:AccessControllable]"
+    jcr:primaryType="sling:Folder"
+    imageProfile="/conf/global/settings/dam/adminui-extension/imageprofile/Smart-Crop"
+    mpConfig="/conf/global/settings/cloudconfigs/mediaportal/AdobeEmea8 Brand Portal"
+    pubFolder="{Boolean}false">
+    <jcr:content
+        cq:lastModified="{Date}2020-09-28T15:01:01.036+02:00"
+        cq:lastModifiedBy="admin"
+        cq:lastReplicated="{Date}2020-09-28T13:40:04.257+02:00"
+        cq:lastReplicatedBy="replication-service"
+        cq:lastReplicationAction="Activate"
+        dam:disableVideoSmartTag="{Boolean}false"
+        jcr:primaryType="nt:unstructured"
+        jcr:title="Smart Crop"
+        autotag="{Boolean}true"
+        dmpublish-mode=""
+        imageProfile="/conf/global/settings/dam/adminui-extension/imageprofile/smart-crop"
+        sourcing="false">
+        <folderThumbnail/>
+    </jcr:content>
+</jcr:root>

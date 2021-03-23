@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0" xmlns:rep="internal"
+    jcr:mixinTypes="[rep:AccessControllable]"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:conf="/conf/global"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="Smart Crop"
+        avsEnabled="true"
+        description="Best practice encoding profiles for adaptive streaming to desktop, mobile and tablet. Can be used for any aspect ratio video."
+        name="smart_crop0">
+        <MP4_x0020_-_x0020_autox360_x0020_px_x002c__x0020_730_x0020_kbps
+            jcr:primaryType="nt:unstructured"
+            audioBitrate="128"
+            audioBitrateCustom="false"
+            audioCodec="Dolby HE-AAC"
+            audioSamplingRate="44100"
+            constantBitrate="false"
+            extension="mp4"
+            h264Profile="high"
+            height="360"
+            keepAspectRatio="true"
+            maxBitrate="1095"
+            maxBitrateCustom="1.5x"
+            mimeType="video/mp4"
+            twoPass="true"
+            videoBitrate="730"
+            videoCodec="MP4 H264 (.mp4)"
+            videoFrameRate="30"
+            width="0"/>
+        <MP4_x0020_-_x0020_autox540_x0020_px_x002c__x0020_2000_x0020_kbps
+            jcr:primaryType="nt:unstructured"
+            audioBitrate="128"
+            audioBitrateCustom="false"
+            audioCodec="Dolby HE-AAC"
+            audioSamplingRate="44100"
+            constantBitrate="false"
+            extension="mp4"
+            h264Profile="high"
+            height="540"
+            keepAspectRatio="true"
+            maxBitrate="3000"
+            maxBitrateCustom="1.5x"
+            mimeType="video/mp4"
+            twoPass="true"
+            videoBitrate="2000"
+            videoCodec="MP4 H264 (.mp4)"
+            videoFrameRate="30"
+            width="0"/>
+        <MP4_x0020_-_x0020_autox720_x0020_px_x002c__x0020_3000_x0020_kbps
+            jcr:primaryType="nt:unstructured"
+            audioBitrate="128"
+            audioBitrateCustom="false"
+            audioCodec="Dolby HE-AAC"
+            audioSamplingRate="44100"
+            constantBitrate="false"
+            extension="mp4"
+            h264Profile="high"
+            height="720"
+            keepAspectRatio="true"
+            maxBitrate="4500"
+            maxBitrateCustom="1.5x"
+            mimeType="video/mp4"
+            twoPass="true"
+            videoBitrate="3000"
+            videoCodec="MP4 H264 (.mp4)"
+            videoFrameRate="30"
+            width="0"/>
+        <smartcrop jcr:primaryType="nt:unstructured">
+            <_x0031_6x9
+                jcr:primaryType="nt:unstructured"
+                height="9"
+                name="Mobile - Horizontal"
+                width="16"/>
+            <_x0039_x16
+                jcr:primaryType="nt:unstructured"
+                height="16"
+                name="Mobile - Vertical"
+                width="9"/>
+        </smartcrop>
+    </jcr:content>
+</jcr:root>

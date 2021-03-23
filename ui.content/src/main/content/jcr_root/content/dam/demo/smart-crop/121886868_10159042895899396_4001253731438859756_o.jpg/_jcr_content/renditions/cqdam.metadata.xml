@@ -1,0 +1,69 @@
+<?xml version="1.0"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 6.2.4">
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+    <rdf:Description rdf:about=""
+        xmlns:exif="http://ns.adobe.com/exif/1.0/"
+        xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
+        xmlns:tiff="http://ns.adobe.com/tiff/1.0/"
+        xmlns:xmp="http://ns.adobe.com/xap/1.0/"
+        xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
+        xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#"
+        xmlns:dam="http://www.day.com/dam/1.0"
+        xmlns:dc="http://purl.org/dc/elements/1.1/"
+      exif:ColorSpace="65535"
+      exif:ExifVersion="0231"
+      exif:PixelXDimension="2616"
+      exif:PixelYDimension="1152"
+      photoshop:ColorMode="3"
+      photoshop:Instructions="FBMD01000a9e010000a84100004778000077780000c57800005c91000074d1000065f100005df20000a4f20000ca640100"
+      photoshop:LegacyIPTCDigest="6D74856064ED8EE01D9E07BC87776751"
+      photoshop:TransmissionReference="EILUMIDX2siEYeX7DG6B"
+      tiff:Orientation="1"
+      tiff:PhotometricInterpretation="2"
+      tiff:ResolutionUnit="2"
+      tiff:SamplesPerPixel="3"
+      tiff:XResolution="720000/10000"
+      tiff:YResolution="720000/10000"
+      tiff:ImageWidth="2616"
+      tiff:ImageLength="1152"
+      xmp:CreateDate="2020-11-02T10:16:37+01:00"
+      xmp:CreatorTool="Adobe Photoshop 22.0 (Macintosh)"
+      xmp:MetadataDate="2020-11-02T10:18:42+01:00"
+      xmp:ModifyDate="2020-11-02T10:18:42+01:00"
+      xmpMM:DocumentID="A904299F095278BFD2B528AD8E3BDB0D"
+      xmpMM:InstanceID="xmp.iid:5e38c48d-0f91-465a-b342-d387494c2597"
+      xmpMM:OriginalDocumentID="A904299F095278BFD2B528AD8E3BDB0D"
+      dam:Physicalwidthindpi="72"
+      dam:MIMEtype="image/jpeg"
+      dam:Physicalheightininches="16.0"
+      dam:Physicalheightindpi="72"
+      dam:Physicalwidthininches="36.33333206176758"
+      dam:Bitsperpixel="24"
+      dam:Progressive="yes"
+      dam:size="343159"
+      dam:Numberoftextualcomments="0"
+      dam:sha1="e970ab133163ea553149f66c77ee2bc86d463021"
+      dam:SpecialInstructions="FBMD01000a9e010000a84100004778000077780000c57800005c91000074d1000065f100005df20000a4f20000ca640100"
+      dam:Numberofimages="1"
+      dam:Fileformat="JPEG"
+      dc:format="image/jpeg">
+      <tiff:BitsPerSample>
+        <rdf:Seq>
+          <rdf:li>8</rdf:li>
+          <rdf:li>8</rdf:li>
+          <rdf:li>8</rdf:li>
+        </rdf:Seq>
+      </tiff:BitsPerSample>
+      <xmpMM:History>
+        <rdf:Seq>
+          <rdf:li
+            stEvt:action="saved"
+            stEvt:changed="/"
+            stEvt:instanceID="xmp.iid:5e38c48d-0f91-465a-b342-d387494c2597"
+            stEvt:softwareAgent="Adobe Photoshop 22.0 (Macintosh)"
+            stEvt:when="2020-11-02T10:18:42+01:00"/>
+        </rdf:Seq>
+      </xmpMM:History>
+    </rdf:Description>
+  </rdf:RDF>
+</x:xmpmeta>

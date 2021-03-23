@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:template="/libs/dam/templates/youtube"
+        jcr:primaryType="nt:unstructured"
+        sling:resourceSuperType="/libs/dam/templates/youtube"
+        applicationName="AEM"
+        jsonConfigValue="\{&quot;web&quot;:{&quot;client_id&quot;:&quot;403073181339-qddv5k8s0tft0bv71hjsv28626d7bken.apps.googleusercontent.com&quot;,&quot;project_id&quot;:&quot;adobe-aem-229714&quot;,&quot;auth_uri&quot;:&quot;https://accounts.google.com/o/oauth2/auth&quot;,&quot;token_uri&quot;:&quot;https://oauth2.googleapis.com/token&quot;,&quot;auth_provider_x509_cert_url&quot;:&quot;https://www.googleapis.com/oauth2/v1/certs&quot;,&quot;client_secret&quot;:&quot;xLAoHB18E4c33OMkFtXKrWIN&quot;,&quot;redirect_uris&quot;:[&quot;http://localhost:4502/etc/cloudservices/youtube.youtubecredentialcallback.json&quot;],&quot;javascript_origins&quot;:[&quot;http://localhost:4502&quot;]}}">
+        <channels jcr:primaryType="nt:unstructured">
+            <rifbjerg/>
+        </channels>
+    </jcr:content>
+</jcr:root>

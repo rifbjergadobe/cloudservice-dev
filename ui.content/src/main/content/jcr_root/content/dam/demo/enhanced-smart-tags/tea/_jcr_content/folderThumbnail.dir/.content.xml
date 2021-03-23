@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:dam="http://www.day.com/dam/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="nt:file">
+    <jcr:content
+        dam:folderThumbnailPaths="[/content/dam/demo/enhanced-smart-tags/tea/photo-1509231542929-840d38d1f798.jpeg,/content/dam/demo/enhanced-smart-tags/tea/photo-1421986872218-300a0fea5895.jpeg,/content/dam/demo/enhanced-smart-tags/tea/photo-1508598076548-8e71b212dd04.jpeg]"
+        jcr:primaryType="nt:unstructured"
+        bgcolor="{Long}-1"
+        height="{Long}240"
+        width="{Long}280"/>
+</jcr:root>
