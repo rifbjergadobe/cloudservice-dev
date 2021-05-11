@@ -108,13 +108,13 @@
             <version>${project.version}</version>
         </dependency>
 
-        <dependency>
+<!--         <dependency>
             <groupId>com.rifbjerg</groupId>
             <artifactId>rifbjerg.ui.frontend</artifactId>
             <version>${project.version}</version>
             <type>zip</type>
         </dependency>
-
+ -->
         <dependency>
             <groupId>com.rifbjerg</groupId>
             <artifactId>rifbjerg.ui.apps.structure</artifactId>
